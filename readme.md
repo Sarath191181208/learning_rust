@@ -5,6 +5,7 @@ The learning projects I have currently built are:
 
 1. [Number guessing game CLI in Rust with colored text.](#number-guessing-game-cli-in-rust-with-colored-text)
 2. [Rock Paper Scissors game CLI in Rust with colored text.](#rock-paper-scissors-game-cli-in-rust-with-colored-text)
+3. [Wordle game CLI in Rust with colored text.](#wordle-game-cli-in-rust-with-colored-text)
 
 # Number guessing game CLI in Rust with colored text.
 
@@ -28,3 +29,13 @@ Things I've learned:
 - Now have a okay understanding of the borrow & mutability checker.
 - Learning how to use the `match` keyword.
 - Tuples in Rust.
+
+# Wordle game CLI in Rust with colored text.
+
+![Screenshot of the game](images/wordle.png)
+
+Things I've learned:
+
+- `static` variables in Rust.
+- packaging into different folders.
+- Some String methods and how to manipulate strings in Rust.
