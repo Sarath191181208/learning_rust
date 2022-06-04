@@ -7,6 +7,11 @@ The learning projects I have currently built are:
 
 # Number guessing game CLI in Rust with colored text.
 
-## Demo
-
 ![Screenshot of the game](images/numGuessWithClrTxt.png)
+Things I've learned:
+
+- How to import functions from other files.
+- print! doesn't flush the output to the screen.
+- How to work with dependencies.
+- Glimpse to the borrow checker.
+- Glimpse to the mutability checker.
