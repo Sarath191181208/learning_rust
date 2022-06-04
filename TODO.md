@@ -1,4 +1,4 @@
-- [ ] Rock Paper Scissors
+- [x] Rock Paper Scissors
 - [ ] Wordle
 - [ ] Connect Four
 - [ ] Tic Tac Toe
