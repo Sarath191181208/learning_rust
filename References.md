@@ -2,3 +2,5 @@
 - [Colored text in Rust](https://stackoverflow.com/questions/69981449/how-do-i-print-colored-text-to-the-terminal-in-rust#:~:text=You%20have%20to%20use%20hexadecimal,93mError%5Cx1b%5B0m%22)
 - [Importing functions from other files](https://users.rust-lang.org/t/how-to-call-a-function-in-another-file-but-the-same-crate/15214)
 - [String multipication in Rust](https://stackoverflow.com/questions/31216646/repeat-string-with-integer-multiplication)
+- [How to use the `match` keyword](https://doc.rust-lang.org/rust-by-example/flow_control/match.html)
+- [How to clear terminal screen Rust](https://stackoverflow.com/questions/34837011/how-to-clear-the-terminal-screen-in-rust-after-a-new-line-is-printed)

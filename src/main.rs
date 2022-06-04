@@ -1,6 +1,7 @@
+// mod guessing_game;
+// mod rock_paper_scicssors;
 
-mod guessing_game;
-
-fn main(){
-    guessing_game::play_game();
+fn main() {
+    // guessing_game::play_game();
+    // rock_paper_scicssors::play_game();
 }

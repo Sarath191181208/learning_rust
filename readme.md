@@ -4,6 +4,7 @@ Therefore I created this repository. It contains some snippets of code I've writ
 The learning projects I have currently built are:
 
 1. [Number guessing game CLI in Rust with colored text.](#number-guessing-game-cli-in-rust-with-colored-text)
+2. [Rock Paper Scissors game CLI in Rust with colored text.](#rock-paper-scissors-game-cli-in-rust-with-colored-text)
 
 # Number guessing game CLI in Rust with colored text.
 
@@ -13,6 +14,16 @@ Things I've learned:
 
 - How to import functions from other files.
 - print! doesn't flush the output to the screen.
+- String multipication in Rust.
 - How to work with dependencies.
 - Glimpse to the borrow checker.
 - Glimpse to the mutability checker.
+
+# Rock Paper Scissors game CLI in Rust with colored text.
+
+![Screenshot of the game](images/rockPaperScissorsWithClr.png)
+
+Things I've learned:
+
+- Now have a okay understanding of the borrow & mutability checker.
+- Learning how to use the `match` keyword.
