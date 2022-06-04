@@ -27,3 +27,4 @@ Things I've learned:
 
 - Now have a okay understanding of the borrow & mutability checker.
 - Learning how to use the `match` keyword.
+- Tuples in Rust.

@@ -3,4 +3,5 @@
 - [Importing functions from other files](https://users.rust-lang.org/t/how-to-call-a-function-in-another-file-but-the-same-crate/15214)
 - [String multipication in Rust](https://stackoverflow.com/questions/31216646/repeat-string-with-integer-multiplication)
 - [How to use the `match` keyword](https://doc.rust-lang.org/rust-by-example/flow_control/match.html)
+- [Tuples in Rust](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 - [How to clear terminal screen Rust](https://stackoverflow.com/questions/34837011/how-to-clear-the-terminal-screen-in-rust-after-a-new-line-is-printed)
