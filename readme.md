@@ -6,6 +6,7 @@ The learning projects I have currently built are:
 1. [Number guessing game CLI in Rust with colored text.](#number-guessing-game-cli-in-rust-with-colored-text)
 2. [Rock Paper Scissors game CLI in Rust with colored text.](#rock-paper-scissors-game-cli-in-rust-with-colored-text)
 3. [Wordle game CLI in Rust with colored text.](#wordle-game-cli-in-rust-with-colored-text)
+4. [Connect Four game CLI in Rust with colred text.]
 
 # Number guessing game CLI in Rust with colored text.
 
@@ -39,3 +40,18 @@ Things I've learned:
 - `static` variables in Rust.
 - packaging into different folders.
 - Some String methods and how to manipulate strings in Rust.
+
+# Connect Four game CLI in Rust with colred text.
+
+![Screenshot of the game](images/connectFour.png)
+
+Things I've learned:
+
+- Using `structs`
+- Using `enum`
+- Method syntax
+- Clear understanding of owner ship and borrowing.
+- `match` in `enums`.
+- if-else short hand.
+- **2D Arrays**.
+- How to use `use` keyword in custom modules.
