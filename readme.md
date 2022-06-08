@@ -6,7 +6,7 @@ The learning projects I have currently built are:
 1. [Number guessing game CLI in Rust with colored text.](#number-guessing-game-cli-in-rust-with-colored-text)
 2. [Rock Paper Scissors game CLI in Rust with colored text.](#rock-paper-scissors-game-cli-in-rust-with-colored-text)
 3. [Wordle game CLI in Rust with colored text.](#wordle-game-cli-in-rust-with-colored-text)
-4. [Connect Four game CLI in Rust with colred text.]
+4. [Connect Four game CLI in Rust with colred text.](#connect-four-game-cli-in-rust-with-colred-text)
 
 # Number guessing game CLI in Rust with colored text.
 
